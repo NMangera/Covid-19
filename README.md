@@ -14,11 +14,12 @@ European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.euro
 
 The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
 
-**Confirmed cases and deaths:** The data comes from the European Centre for Disease Prevention and Control (ECDC). The cases & deaths dataset is updated daily. 
 
-**Note:** the number of cases or deaths reported by any institution on a given day does not necessarily represent the actual number on that date. This is because of the reporting chain that exists between a new case/death and its inclusion in statistics. Alternatively, large changes can sometimes (although rarely) be made to a country's entire time series if the ECDC decides (and has access to the necessary data) to correct values retrospectively.
+> **Confirmed cases and deaths:** The data comes from the European Centre for Disease Prevention and Control (ECDC). The cases & deaths dataset is updated daily. 
 
-**Testing for COVID-19:** The data is collected from official in-country reports. The testing data is updated twice a week.
+> **Note:** the number of cases or deaths reported by any institution on a given day does not necessarily represent the actual number on that date. This is because of the reporting chain that exists between a new case/death and its inclusion in statistics. Alternatively, large changes can sometimes (although rarely) be made to a country's entire time series if the ECDC decides (and has access to the necessary data) to correct values retrospectively.
+
+> **Testing for COVID-19:** The data is collected from official in-country reports. The testing data is updated twice a week.
 
 A breakdown of each variable can be found in the csv labelled 'codebook', along with the source for each variable in the dataset.
 

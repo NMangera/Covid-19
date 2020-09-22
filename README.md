@@ -21,3 +21,7 @@ The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
 **Testing for COVID-19:** The data is collected from official in-country reports. The testing data is updated twice a week.
 
 A breakdown of each variable can be found in the csv labelled 'codebook', along with the source for each variable in the dataset.
+
+
+License
+All visualizations, data, and code produced is open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and author is credited.

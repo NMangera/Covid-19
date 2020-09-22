@@ -5,6 +5,12 @@ An infectious disease caused by a type of coronavirus known as SARS-CoV-2. This 
 
 DATA SOURCES: This list includes a list of the sources used in the data set. 
 
+Primary data source:
+
+Our World in Data (owid): https://ourworldindata.org/coronavirus-source-data
+
+
+
 Aggregated data sources:
 
 World Health Organization (WHO): https://www.who.int/

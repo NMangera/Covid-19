@@ -3,11 +3,11 @@
 An infectious disease caused by a type of coronavirus known as SARS-CoV-2. This repository contains code focused around research and awareness of the virus. The dataset is principally the contribution of Our World in Data, whose mission it is to make data and research on the world’s largest problems understandable and accessible. 
 
 
-PRIMARY DATA SOURCE:
+### PRIMARY DATA SOURCE
 
 Our World in Data (owid): https://ourworldindata.org/coronavirus-source-data
 
-SECONDARY DATA SOURCES:
+### SECONDARY DATA SOURCES
 World Health Organization (WHO): https://www.who.int/
 
 European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases

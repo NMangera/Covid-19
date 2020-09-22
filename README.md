@@ -1,6 +1,6 @@
 # Covid-19
 
-An infectious disease caused by a type of coronavirus known as SARS-CoV-2. This repository contains code focused around research and awareness of the virus.
+An infectious disease caused by a type of coronavirus known as SARS-CoV-2. This repository contains code focused around research and awareness of the virus. The dataset is principally the contribution of Our World in Data, whose mission it is to make data and research on the world’s largest problems understandable and accessible. 
 
 
 PRIMARY DATA SOURCE:

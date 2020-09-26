@@ -25,4 +25,4 @@ A breakdown of each variable can be found in the csv labelled 'codebook', along 
 
 
 ### License
-All data, code and visualizations produced is open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and author is credited.
+All data, code and visualizations produced is open access under the Creative Commons BY license.
